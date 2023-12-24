@@ -1,5 +1,5 @@
 # Road Accident Data Analytics Project
-
+![alt txt](https://github.com/MOHINI1403/Road_Accident_Data_Analytics/blob/main/Road_Accident_Analysis_JPG.PNG)
 ## Overview
 
 This project aims to analyze road accident data to gain insights into the factors contributing to accidents, identify patterns, and propose data-driven recommendations for improving road safety. The dataset used in this project contains information about various aspects of road accidents, such as location, time, weather conditions, and severity.
